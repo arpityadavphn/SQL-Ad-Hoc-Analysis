@@ -29,10 +29,12 @@ This project leverages SQL to perform ad-hoc analysis on Swiggy's restaurant and
 - Columns: `restaurant_no`, `restaurant_name`, `city`, `address`, `rating`, `cost_per_person`, `cuisine`, `restaurant_link`, `menu_category`, `item`, `price`, `veg_or_non-veg`
  ### 4. Analysis
       1.	How many restaurants have a rating greater than 4.5?
-      ![1](https://github.com/user-attachments/assets/1059bf2c-90d0-4b72-b7a5-7ade74aca077)
-      Output:
-      ![1](https://github.com/user-attachments/assets/1f782847-8646-41dd-85b5-8374131636b8)
+      
+     - ![1](https://github.com/user-attachments/assets/1059bf2c-90d0-4b72-b7a5-7ade74aca077)
+  -    Output:
+   -   ![1](https://github.com/user-attachments/assets/1f782847-8646-41dd-85b5-8374131636b8)
 
 
-      2.	
+      2.	![3](https://github.com/user-attachments/assets/4058e6a9-8709-4f69-b866-1de7c35b066f)
+
  
