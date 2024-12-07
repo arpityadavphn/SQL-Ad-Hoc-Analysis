@@ -24,9 +24,9 @@ This project leverages SQL to perform ad-hoc analysis on Swiggy's restaurant and
 
 ## 3.	Dataset Overview
 
-- Source: *GitHub*
-- Key Tables: There is only one table  [`Swiggy.csv`](https://github.com/arpityadavphn/SQL-Ad-Hoc-Analysis/blob/main/Swiggy.csv)
-- Columns: `restaurant_no`, `restaurant_name`, `city`, `address`, `rating`, `cost_per_person`, `cuisine`, `restaurant_link`, `menu_category`, `item`, `price`, `veg_or_non-veg`
+- **Source:** *GitHub*
+- **Key Tables:** There is only one table  [`Swiggy.csv`](https://github.com/arpityadavphn/SQL-Ad-Hoc-Analysis/blob/main/Swiggy.csv)
+- **Columns:** `restaurant_no`, `restaurant_name`, `city`, `address`, `rating`, `cost_per_person`, `cuisine`, `restaurant_link`, `menu_category`, `item`, `price`, `veg_or_non-veg`
 
  ## 4. Analysis
 
