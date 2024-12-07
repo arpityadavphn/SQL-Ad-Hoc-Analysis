@@ -2,7 +2,7 @@
 
 ### Title: Restaurants Analysis for Swiggy
 
-### 1.	Project Overview
+## 1.	Project Overview
 This project leverages SQL to perform ad-hoc analysis on Swiggy's restaurant and menu dataset to identify patterns in as top-rated restaurants, popular cuisines, pricing patterns, and operational trends across cities. Insights from the analysis will support promotional strategies and improve customer experience on platform.
 
 ### 2.	Objectives
