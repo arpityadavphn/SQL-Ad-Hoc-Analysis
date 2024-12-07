@@ -44,7 +44,9 @@
 	MAX(PRICE) OVER(PARTITION BY restaurant_name) AS max_price
 	FROM swiggydb
 	WHERE menu_category = 'RECOMMENDED'
-	  ---------------------------------------        
+
+		(OR)
+	
 	SELECT 
 		restaurant_name AS name_of_restaurant,
 		MAX(price) AS max_price
