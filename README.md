@@ -43,6 +43,7 @@ This project leverages SQL to perform ad-hoc analysis on Swiggy's restaurant and
 ![2](https://github.com/user-attachments/assets/d815c2ec-6ad8-47c9-b9ab-a5d02ebd56af)
 
 Output:
+
 ![2](https://github.com/user-attachments/assets/1d40bac7-a74a-4aeb-86a6-af17bbf750f1)
 
 3. How many restaurants have the word "PIZZA" in their name?
