@@ -6,7 +6,7 @@
 This project leverages SQL to perform ad-hoc analysis on Swiggy's restaurant and menu dataset to identify patterns in as top-rated restaurants, popular cuisines, pricing patterns, and operational trends across cities. Insights from the analysis will support promotional strategies and improve customer experience on platform.
 
 ### 2.	Objectives
-  *Objective is to seek the answers of below questions:*
+  *The objective is to seek the answers of below questions:*
   1.	How many restaurants have a rating greater than 4.5?
   2.	Which is the top 1 city with the highest number of restaurants?
   3.	How many restaurants have the word "PIZZA" in their name?
@@ -24,7 +24,15 @@ This project leverages SQL to perform ad-hoc analysis on Swiggy's restaurant and
 
 ### 3.	Dataset Overview
 
-- Source: GitHub
+- Source: *GitHub*
 - Key Tables: There is only one table  [`Swiggy.csv`](https://github.com/arpityadavphn/SQL-Ad-Hoc-Analysis/blob/main/Swiggy.csv)
 - Columns: `restaurant_no`, `restaurant_name`, `city`, `address`, `rating`, `cost_per_person`, `cuisine`, `restaurant_link`, `menu_category`, `item`, `price`, `veg_or_non-veg`
- ### 4. 
+ ### 4. Analysis
+      1.	How many restaurants have a rating greater than 4.5?
+      ![1](https://github.com/user-attachments/assets/1059bf2c-90d0-4b72-b7a5-7ade74aca077)
+      Output:
+      ![1](https://github.com/user-attachments/assets/1f782847-8646-41dd-85b5-8374131636b8)
+
+
+      2.	
+ 
