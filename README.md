@@ -138,3 +138,8 @@ Output:
 Output:
 
 ![14](https://github.com/user-attachments/assets/b8f525a3-388f-4e5a-9ee0-e680616ecbc9)
+
+## 5.	CONCLUSION
+
+The ad-hoc SQL analysis of Swiggy's restaurant and menu dataset provided critical insights into operational and customer trends. From finding the top-rated restaurants to popular cuisines and pricing patterns analysis highlights key areas for strategic improvements. These findings can drive better business decisions, improve customer satisfaction, and optimize Swiggy's overall service delivery.
+
